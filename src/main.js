@@ -1,4 +1,3 @@
-Daniil Tian, [11.08.19 23:49]
 const getMenuElement = () => {
   return `
   <section class="control__btn-wrap">
