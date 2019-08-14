@@ -154,7 +154,6 @@ const getCardElement = () => {
             </button>
           </div>
 
-Daniil Tian, [11.08.19 23:49]
 <div class="card__color-bar">
             <svg class="card__color-bar-wave" width="100%" height="10">
               <use xlink:href="#wave"></use>
@@ -260,7 +259,6 @@ const getInnerElement = () => {
                 repeat:<span class="card__repeat-status">no</span>
               </button>
 
-Daniil Tian, [11.08.19 23:49]
 <fieldset class="card__repeat-days" disabled>
                 <div class="card__repeat-days-inner">
                   <input
@@ -354,7 +352,6 @@ Daniil Tian, [11.08.19 23:49]
             </div>
           </div>
 
-Daniil Tian, [11.08.19 23:49]
 <div class="card__colors-inner">
             <h3 class="card__colors-title">Color</h3>
             <div class="card__colors-wrap">
